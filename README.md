@@ -62,11 +62,19 @@ The system is trained on the PKLot dataset and evaluated for accuracy and speed,
 
 ## 📸 Sample Output
 
+![image](https://github.com/user-attachments/assets/11119f30-a2fb-4602-9851-25710cf64e94)
 
+Detected Parking Spaces:
+
+space-empty: 25
+
+space-occupied: 15
+
+---
 
 ## 📄 License
 
-Copyright (c) 2025 Praveen Kumar
+**Copyright © 2025 Praveen Kumar**
 
 All rights reserved.
 
